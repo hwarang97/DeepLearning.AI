@@ -13,3 +13,8 @@ Nerual network doesn't know that family size relies on number of bed rooms and s
 
 ## What is supervised learning?
 To make neural network that mapping input x into output y.
+
+## What is structed data and unstructed data?
+|Feature          |Structed             |Unstructed
+|-----------------|---------------------|-----------
+|
