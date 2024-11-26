@@ -9,3 +9,7 @@ As predicting family size, people consider numbers of bed room and size as varia
 
 ## Neural network learn pattern by data.
 Nerual network doesn't know that family size relies on number of bed rooms and size. But, with many data, neural network can configure patten which map number of bed rooms and size to family size.
+
+
+## What is supervised learning?
+To make neural network that mapping input x into output y.
