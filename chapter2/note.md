@@ -1,5 +1,5 @@
-## what can i do after taking chapter2?
-1. How to get model perform well
+## what is goal of chapter2?
+1. Understand how to get model perform well
 
 
 ## what do i learn chapter2?
