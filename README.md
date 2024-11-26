@@ -10,7 +10,7 @@
 ## What is purpose of taking this course?
 1. understanding how to improve model and excercise it
 2. understanding how to solve problem through project
-3. AI fundamental like batch-norm, drop out, ...
+3. AI fundamental like batch-norm, drop out, etc
 
 ## What can i do after taking this course?
 1. kaggle competition
