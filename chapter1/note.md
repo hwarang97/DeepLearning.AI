@@ -26,3 +26,6 @@ To make neural network that mapping input x into output y.
 3. good function like LeRU
 
 Larger model usually show higher performance, need more data. Computaion is more powerful, the cycle is shoten which is consisted of idea -> code -> experiment -> idea ... . Also, some function like ReLU make training speed faster.
+
+
+## What is logistic regression?
