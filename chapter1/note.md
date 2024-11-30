@@ -28,4 +28,8 @@ To make neural network that mapping input x into output y.
 Larger model usually show higher performance, need more data. Computaion is more powerful, the cycle is shoten which is consisted of idea -> code -> experiment -> idea ... . Also, some function like ReLU make training speed faster.
 
 
+## Deeplearning standars notations
+https://d3c33hcgiwev3.cloudfront.net/_a224c80fe704102df043630ff8337e5f_untitled-2.pdf?Expires=1733097600&Signature=DcUWNQnm2oCqhdKOBRBYcvBX9OhAi4jUzJXfiuVpqnTJha2bhEDroi-sfNCv~e70Et9M8~SZkmOMhUya-vwhN2KAVnlrQRUQXg1BQHjIxk8dQNT8D5UEOraoJ0QTjXjpvsIHQ-ZnbpXXjrFTmxkc-5GoIYaiqj0-oC2YdpdjJF4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+
+
 ## What is logistic regression?
