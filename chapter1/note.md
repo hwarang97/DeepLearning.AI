@@ -18,3 +18,10 @@ To make neural network that mapping input x into output y.
 |Feature          |Structed             |Unstructed
 |-----------------|---------------------|-----------
 |
+
+
+## What is main reason to take off deeplearning?
+1. large amount of data (digitalized)
+2. computer calculation power(CPU, GPU)
+
+Larger model usually show higher performance, need more data. Computaion is more powerful, the cycle is shoten which is consisted of idea -> code -> experiment -> idea ... .
