@@ -23,5 +23,6 @@ To make neural network that mapping input x into output y.
 ## What is main reason to take off deeplearning?
 1. large amount of data (digitalized)
 2. computer calculation power(CPU, GPU)
+3. good function like LeRU
 
-Larger model usually show higher performance, need more data. Computaion is more powerful, the cycle is shoten which is consisted of idea -> code -> experiment -> idea ... .
+Larger model usually show higher performance, need more data. Computaion is more powerful, the cycle is shoten which is consisted of idea -> code -> experiment -> idea ... . Also, some function like ReLU make training speed faster.
